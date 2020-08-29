@@ -28,15 +28,13 @@
 
 ### Courses
 
-|                         Courses                         |                                                         |                                                 |
-| :-----------------------------------------------------: | :-----------------------------------------------------: | :---------------------------------------------: |
-|         COMPSCI 142A Compilers and Interpreters         |      COMPSCI 141 Concepts in Programming Languages      | IN4MATX 43 Introduction to Software Engineering |
-|  I&C SCI 46 Data Structure Implementation and Analysis  |             I&C SCI 6D Discrete Mathematics             |  COMPSCI 122A Introduction to Data Management   |
-| MGMT 107 Introduction to Management Information Systems |   STATS 67 Introduction to Probability and Statistics   |  COMPSCI 143A Principles of Operating Systems   |
-|         I&C SCI 53 Principles in System Design          |     I&C SCI 53L Principles in System Design Library     |                                                 |
-|        IN4MATX 121 Software Design: Applications        | I&C SCI 139W Critical Writing on Information Technology |                                                 |
-
-
+|                                                             |                           Courses                           |                                                     |
+| :---------------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------: |
+|         **COMPSCI 142A** Compilers and Interpreters         |      **COMPSCI 141** Concepts in Programming Languages      | **IN4MATX 43** Introduction to Software Engineering |
+|  **I&C SCI 46** Data Structure Implementation and Analysis  |             **I&C SCI 6D** Discrete Mathematics             |  **COMPSCI 122A** Introduction to Data Management   |
+| **MGMT 107** Introduction to Management Information Systems |   **STATS 67** Introduction to Probability and Statistics   |  **COMPSCI 143A** Principles of Operating Systems   |
+|         **I&C SCI 53** Principles in System Design          |     **I&C SCI 53L** Principles in System Design Library     |                                                     |
+|        **IN4MATX 121** Software Design: Applications        | **I&C SCI 139W** Critical Writing on Information Technology |                                                     |
 
 ### Contact Me
 
