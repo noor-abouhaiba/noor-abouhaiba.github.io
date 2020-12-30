@@ -62,7 +62,7 @@
 |        **COMPSCI 145** Embedded Software        | **COMPSCI 145L** Embedded Software Laboratory |  
                                                   
 
-## Contact Me  <a name="contactme" ></a>
+## Contact Me
 
 Interested in contacting me? <br/>Reach out to me through email: **nabouhai** at **uci** dot **edu** or go ahead and connect with me on [LinkedIn](https://www.linkedin.com/in/noor-abouhaiba/)!
 
