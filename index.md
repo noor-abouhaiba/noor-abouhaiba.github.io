@@ -2,7 +2,8 @@
 
 ## About
 
-<center> Hi and thanks for coming across my page! Currently, I'm an undergraduate student at the University of California, Irvine under the Donald Bren School of Information and Computer Sciences (ICS) and majoring in Computer Science with a specialization in Systems and Software. In my free time I enjoy pursuing side projects that heavily focus on how the end user interacts with the application. One of the things I enjoy most is to develop with a purpose, where every action and each decision made has a positive and significant impact on the user's experience. Thanks for visiting and if you're interested in reaching out feel free to do so below! </center>
+<center> Hi and thanks for coming across my page! Currently, I'm an undergraduate student at the University of California, Irvine under the Donald Bren School of Information and Computer Sciences (ICS) and majoring in Computer Science with a specialization in Systems and Software. 
+In my free time I enjoy pursuing side projects that use tools I haven't interacted with before to help broaden my experience and skillset, as well as develop applications that heavily focus on how the end user interacts with them. One of the things I enjoy most is to develop with a purpose, where every action and each decision made has a positive and significant impact on the user's experience. Thanks for visiting and if you're interested in reaching out feel free to do so below! </center>
 
 ## Work Experience
 
