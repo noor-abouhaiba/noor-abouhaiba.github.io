@@ -34,11 +34,8 @@ In my free time I enjoy pursuing side projects that use tools I haven't interact
 ##### Summer 2020
 
 - Designed and developed a Discord bot using JavaScript (node.js), DynamoDB, Express, OAuth2.0, and Twitch's API. 
-
 - tripleBOT's main purpose and inspiration was to help automate tedious tasks that would otherwise be done manually. It was unfortunate to see how many of these somewhat grueling tasks were done manually, which I believe was my signal to take action and build something to alleviate this burden. There is intended future work to build and better accommodate the future needs and wants of the server tripleBOT is designed for.
-
-- Building this application while collaborating with the customer led me to realize my passion for building something that caters very heavily to the users' needs, all while putting the customer's needs and desires as a priority throughout development.
-
+- Building this application led me to realize my passion for building something that caters very heavily to the users' needs, all while putting the user's needs and desires as a priority throughout development.
 -  A more detailed explanation with demos can be found [here](https://github.com/noor-abouhaiba/discord-bot-tripleBOT)! 
 
 ##### crux Compiler
@@ -46,7 +43,6 @@ In my free time I enjoy pursuing side projects that use tools I haven't interact
 ##### Spring 2020
 
 - Built a compiler which translate programs constructed from a fairly small imperative programming language into executable x86 assembly.
-
 - The project follows a traditional compiler design approach of partitioning our compiler into a sequence of stages, starting with a frontend and proceeding toward a backend in incremental steps. These stages will transform the input source code progressively into executable output. These stages are as follows: 
 ```
 +--------+         +-------+       +----------+       +----------------+          +----------+
@@ -65,7 +61,6 @@ In my free time I enjoy pursuing side projects that use tools I haven't interact
 ```
 
 - The frontend uses the parser generator library ANTLR and Maven is used to automatically manage dependencies, build and test the project.
-
 - For more information or access to the GitHub repository feel free to reach out to me!  
 
 
