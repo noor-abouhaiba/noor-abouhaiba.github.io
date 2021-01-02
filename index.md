@@ -40,7 +40,33 @@
 
 -  A more detailed explanation with demos can be found [here](https://github.com/noor-abouhaiba/discord-bot-tripleBOT)! 
 
-  
+##### crux Compiler
+
+##### Spring 2020
+
+- Built a compiler which translate programs constructed from a fairly small imperative programming language into executable x86 assembly.
+
+- The project follows a traditional compiler design approach of partitioning our compiler into a sequence of stages, starting with a frontend and proceeding toward a backend in incremental steps. These stages will transform the input source code progressively into executable output. These stages are as follows: 
+```
++--------+         +-------+       +----------+       +----------------+          +----------+
+| Crux   |  Parse  | ANTLR | Lower | Abstract | Lower | Intermediate   | Code Gen |          |
+| source +-------->+ parse +------>+ syntax   +------>+ representation +--------->+ Assembly |
+| code   | (ANTLR) | tree  |       | tree     |       |                |          |          |
++--------+         +-------+       +--+-------+       +----------------+          +----------+
+                                      |
+                                      | Semantic
+                                      | check
+                                      v
+                                   +--+---+
+                                   | Type |
+                                   | info |
+                                   +------+
+```
+
+- The frontend uses the parser generator library ANTLR and Maven is used to automatically manage dependencies, build and test the project.
+
+- For more information or access to the GitHub repository feel free to reach out to me!  
+
 
 ##### Extended Dijkstra’s Shortest Path
 
